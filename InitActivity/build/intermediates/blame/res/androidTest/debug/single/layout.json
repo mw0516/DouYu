@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/Users/admin/Developer/work/DouYu/InitActivity/build/intermediates/res/merged/androidTest/debug/layout/mediacontroller.xml",
-        "source": "/Users/admin/Developer/work/DouYu/InitActivity/build/intermediates/bundles/debug/res/layout/mediacontroller.xml"
+        "merged": "D:\\Users\\admin\\Developer\\work\\DouYu\\InitActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mediacontroller.xml",
+        "source": "D:\\Users\\admin\\Developer\\work\\DouYu\\InitActivity\\build\\intermediates\\bundles\\debug\\res\\layout\\mediacontroller.xml"
+    },
+    {
+        "merged": "D:\\test\\DouYu\\InitActivity\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\mediacontroller.xml",
+        "source": "D:\\test\\DouYu\\InitActivity\\build\\intermediates\\bundles\\debug\\res\\layout\\mediacontroller.xml"
     }
 ]
